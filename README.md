@@ -30,6 +30,8 @@ The following are replication packages of other papers I (co-)authored:
 
 - [ICSE Demonstrations 2024](https://github.com/tudelft-cda-lab/CATMA) - *CATMA: Conformance Analysis Tool for Microserivce Applications*
 
+- [EMSE 2025](https://github.com/M3SOulu/EMSE2025SAR-Replication) - *Comparison of Static Analysis Architecture Recovery Tools for Microservice Applications*
+
 
 ### Contact
 Feel free to contact me if you have questions, suggestions, collaborations, or anything else:
