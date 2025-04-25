@@ -21,6 +21,16 @@ Creating the models is an important preliminary for research in the domain of mo
 Me and other researchers rely on this data to test our newly created tools.
 
 
+### Replication packages
+The following are replication packages of other papers I (co-)authored:
+
+- [SANER 2024](https://github.com/tuhh-softsec/SANER2024_empirical_experiment_DFDs) - *How Dataflow Diagrams Impact Software Security Analysis: an Empirical Experiment*
+
+- [SecDev 2024](https://github.com/SimonAdrian/AI-systems_security_guidelines) - *Designing Secure AI-based Systems: a Multi-Vocal Literature Review*
+
+- [ICSE Demonstrations 2024](https://github.com/tudelft-cda-lab/CATMA) - *CATMA: Conformance Analysis Tool for Microserivce Applications*
+
+
 ### Contact
 Feel free to contact me if you have questions, suggestions, collaborations, or anything else:
 
